@@ -2,7 +2,7 @@
   "name": "nim-nodex-init",
   "version": "1.0.0",
   "main": "server.js",
-  "description": "Scaffold a Node.js Express project with DB and ORM",
+  "description": "nim-nodex-init is a powerful CLI tool that scaffolds a complete Node.js & Express.js app with your preferred database, ORM, authentication system, and organized folder structure — all in seconds.",
     "author": "ZaYn Miraj",
   "license": "ISC",
   "bin": {
@@ -19,6 +19,17 @@
     "chalk": "^5.0.0",
     "execa": "^7.0.0"
   },
-  "type": "module"
+  "type": "module",
+    "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaynmiraj/nim-nodex-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaynmiraj/nim-nodex-init/issues"
+  },
+  "homepage": "https://github.com/zaynmiraj/nim-nodex-init#readme"
 
 }
