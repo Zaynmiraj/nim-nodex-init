@@ -1,0 +1,24 @@
+{
+  "name": "nim-nodex-init",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": "Scaffold a Node.js Express project with DB and ORM",
+    "author": "ZaYn Miraj",
+  "license": "ISC",
+  "bin": {
+    "nim-nodex-init": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "nim-nodex-init"
+  ],
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "chalk": "^5.0.0",
+    "execa": "^7.0.0"
+  },
+  "type": "module"
+
+}
