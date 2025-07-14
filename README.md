@@ -4,6 +4,28 @@
 
 ---
 
+## 📦 Install & Usage
+
+You can use the CLI directly with `npx` (recommended):
+
+```bash
+npx nim-nodex-init
+```
+
+Or install it globally if you prefer:
+
+```bash
+npm install -g nim-nodex-init
+```
+
+Then run it from anywhere with:
+
+```bash
+nim-nodex-init
+```
+
+---
+
 ## ⚙️ What It Does
 
 When you run:
@@ -156,6 +178,8 @@ Feel free to fork, improve, and make PRs — your contributions are welcome!
 
 Built by **ZaYn Miraj**  
 CLI Creator: [@zaynmiraj](https://www.zaynmiraj.com)
+
+---
 
 ## 🏁 License
 
